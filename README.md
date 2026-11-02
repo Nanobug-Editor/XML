@@ -1,5 +1,7 @@
 # XML
 
+Version **0.2.3** targets the Nanobug internal-test build of 2026-11-02 through the public host SDK. Installation IDs and permissions are preserved. Windows native helpers included in this package use a statically linked runtime.
+
 **English** · [简体中文](https://github.com/Nanobug-Editor/XML/blob/main/README.zh-CN.md)
 
 XML highlighting, completion, formatting, schema assistance and document structure. The stable installation ID is `xml`; the first independent release is `0.2.2`.
