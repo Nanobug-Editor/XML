@@ -1,7 +1,7 @@
 {
   "id": "xml",
   "name": "XML",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "protocol": 7,
   "contributions": "plugin.toml",
   "component": "xml.wasm",
